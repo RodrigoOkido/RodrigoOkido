@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there! My name is Rodrigo 👋!
+
+Welcome to my profile! You can find here a little bit more about projects i worked =). It contains a lot of projects that i did during my university period, and personal projects that i developed to improve my technologies skills (through courses). Currently, i am focusing on mobile development as iOS Software Engineer. 
+
+You can also find about me on LinkedIn: [Here](https://www.linkedin.com/in/rodrigo-okido/)
 
 <!--
 **RodrigoOkido/RodrigoOkido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
