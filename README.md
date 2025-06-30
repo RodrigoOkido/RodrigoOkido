@@ -2,6 +2,10 @@
 
 Welcome to my profile! You can find here a little bit more about projects i worked =). It contains a lot of projects that i did during my university period, and personal projects that i developed to improve my technologies skills (through courses). Currently, i am focusing on mobile development as iOS Software Engineer. 
 
+** I do not use my personal Github for work, but time to time i am updating my Github profile, mainly my self project [SwiftUI-BaseHelper](https://github.com/RodrigoOkido/SwiftUI-BaseHelper).
+
+I always trying my best to keep me updated with the latest news and features from Swift =).
+
 You can also find about me on LinkedIn: [Here](https://www.linkedin.com/in/rodrigo-okido/)
 
 <!--
